@@ -770,3 +770,14 @@ For institutions, HostelPulse reduces manual overhead and strengthens governance
 - PaymentCaptured, ReceiptIssued
 - TicketAssigned, TicketClosed, TicketReopened
 - DocumentViewed (warden/admin only, if enabled)
+
+### Creator Details
+
+- Anurag Panda
+- [Email Me](mailto:anuragpanda.dev@gmail.com)
+- [My Github](https://github.com/anurag-panda-dev)
+- [My Collaborator](https://github.com/anu-rag-panda)
+- [My Linkedin](https://likdein.com/in/anurag-panda-)
+- NSHM Knowledge Campus, Arrah, via Shibtala, Durgapur-713212, India
+
+> create a Issue to contact me or DM me on Linkedin
